@@ -1,10 +1,7 @@
 ### 💡 Algorithm
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hduck0729)](https://solved.ac/hduck0729)
-<p align = "center">
-    <img src = "http://mazassumnida.wtf/api/generate_badge?boj=hduck0729&theme=warm"/> &nbsp
-    <img src = "http://mazandi.herokuapp.com/api?handle=hduck0729&theme=warm"/>
-</p>
+<img src = "http://mazandi.herokuapp.com/api?handle=hduck0729&theme=warm"/>
 
 ### 🤔 Learning
 
