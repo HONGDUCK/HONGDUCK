@@ -12,4 +12,3 @@
 
 ### 📝 Log
 
-<a href = "https://velog.io/@hduck0729">![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)</a>
